@@ -4,7 +4,7 @@
 ##############################################################################################################
 
 banner(){
-echo " Welcome to fareye Ubuntu Server 20.04 LTS Hardening Process "
+echo " Welcome to  Ubuntu Server 20.04 LTS Hardening Process "
 echo
 }
 
